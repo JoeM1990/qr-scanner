@@ -22,7 +22,7 @@ class _MyAppState extends State<MyApp> {
       debugShowCheckedModeBanner: false,
       color: Colors.pinkAccent,
       home:new Scaffold(
-        appBar: new AppBar(title: new Text("Scanner"),backgroundColor: Colors.orange,),
+        appBar: new AppBar(title: new Text("Qr Scanner by Monkila"),backgroundColor: Colors.orange,),
         body: new Column(
          children: <Widget>[
             
